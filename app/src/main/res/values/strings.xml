@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lensa Sport</string>
+    <string name="slogan">Berbagi Info Seputar Dunia Olahraga</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share">Share</string>
+    <string name="baca">Baca</string>
+    <string name="all_megazines">All Megazines</string>
+    <string name="favorite_megazines">Favorite Megazines</string>
+    <string name="about_app">About App</string>
+    <string name="namanim">Galang Setia Budi \t\t\t\t\t18.02.0266  \nLinggar Djati Winakar\t\t\t18.02.0235  \nLaila Indah Kusuma\t\t\t\t18.02.0259  \nRonny Agung Fathoni\t\t\t18.02.0244  \nAnggita Denavia\t\t\t\t\t\t18.02.0262  \nPengkuh Dwi Septiandi\t\t18.02.0269</string>
+</resources>

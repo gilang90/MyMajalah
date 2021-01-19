@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="horizontal_margin_title">8dp</dimen>
+    <dimen name="content_text">13sp</dimen>
+    <dimen name="horizontal_margin">180dp</dimen>
+</resources>
